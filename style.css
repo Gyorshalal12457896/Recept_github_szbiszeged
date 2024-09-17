@@ -1,8 +1,9 @@
 body{
-    color: blue;
     background-color: aqua;
     margin: auto;
 }
-h1{
+h1, h2{
     background-color: burlywood;
+    color: red;
 }
+
